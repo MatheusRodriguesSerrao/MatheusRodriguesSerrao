@@ -66,59 +66,7 @@ Gosto de transformar problemas reais em soluções limpas e bem estruturadas —
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 <br/>
-<!-- ============================ PROJETOS ============================ -->
-## Projetos em destaque
- 
-### OrbitAgro Copilot
-Sistema inteligente para apoiar produtores rurais por meio da análise de dados agrícolas, climáticos e operacionais.
- 
-- Diagnóstico agrícola e análise de riscos
-- Menu interativo e simulação de inteligência agrícola
-- Modelagem conceitual e lógica de banco de dados Oracle
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Engenharia_de_Software-1f6feb?style=flat-square" />
-</p>
-<a href="https://github.com/MatheusRodriguesSerrao/orbitagroCopilot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusRodriguesSerrao&repo=orbitagroCopilot&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="OrbitAgro Copilot" />
-</a>
-<br/><br/>
- 
-### Lumen AI — SoulUp Challenge (FIAP 2026)
-Plataforma gamificada onde **Lumën**, um avatar inteligente, guia usuários em missões sustentáveis com pontos, níveis e desafios ecológicos.
- 
-- Avatar interativo construído em CSS e interface com **Glassmorphism**
-- Sistema de quests, pontuação e níveis
-- Login demonstrativo, validação de formulários e persistência via `LocalStorage`
-- Layout totalmente responsivo
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/LocalStorage-0d1117?style=flat-square&logo=html5&logoColor=white" />
-</p>
-<a href="https://github.com/MatheusRodriguesSerrao/soul-up-challenge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusRodriguesSerrao&repo=soul-up-challenge&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Lumen AI - SoulUp Challenge" />
-</a>
-<br/><br/>
- 
-### Jogo de Adivinhação
-Aplicação web para praticar lógica de programação e manipulação do DOM com JavaScript puro.
- 
-- Sorteio de números e validação de tentativas
-- Controle de acertos e feedback visual ao usuário
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
-<a href="https://github.com/MatheusRodriguesSerrao/numero-secreto">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusRodriguesSerrao&repo=numero-secreto&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Jogo de Adivinhação" />
-</a>
-<br/><br/>
- 
+
 <!-- ============================ GITHUB STATS ============================ -->
 ## Estatísticas do GitHub
  
